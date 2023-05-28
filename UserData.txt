@@ -1,0 +1,12 @@
+kiran,1189,kiran@gmail.com,708418824,20/09/2002,2023-02-24,true,KKC5252,saving,false,0.0,500.0,true,false,false,false
+kk,1234,kk@gmail.com,70824232,20/09/3300,2023-02-24,true,KKC98462,saving,false,0.0,500.0,true,false,false,false
+karan,3333,kiran@gmail.com,908658824,20/09/2002,2023-02-24,true,KKC12352,saving,false,0.0,500.0,true,false,false,false
+sujit,1344,kk@gmail.com,8866729832,20/09/3300,2023-02-24,true,KKC92262,saving,false,0.0,500.0,true,false,false,false
+kunal,21324,jashdksa@gmail.com,787546843,20/09/2003,2023-02-24,true,KKC75779,ssaving,false,0.0,500.0,true,false,false,false
+kinjal,4423,kinjal@gmail.com,6966992344,13/04/2003,2023-02-24,true,KKC83479,saving,false,0.0,500.0,true,false,false,false
+yogesh,445523,yogesh@yahoo.com,789945332,23/03/1989,2023-02-24,true,KKC72117,saving,false,0.0,500.0,true,false,false,false
+shital,8855,shital@gamil.com,6677889944,5/1.2004,2023-02-25,true,KKC5412,saving,false,0.0,120000.0,true,false,false,false,
+jayesh,330011,jayesh@gmail.com,886677788',08/07/2003,2023-02-25,true,KKC17507,saving,false,0.0,4000.0,true,false,false,false,
+sujata,456789,sujata@gmail.com,76664358,20/3/2004,2023-02-25,true,KKC95363,saving,false,0.0,3000.0,true,false,false,false,
+lokesh,445566,lokesh@gmail.com,8877665544,9/6/2005,2023-02-25,true,KKC56310,saving,false,0.0,100.0,true,false,false,false,
+jeenesh,111111,jeenesh@gmail.com,8855663344,20/3/2001,2023-02-25,true,KKC48590,saving,false,0.0,500.0,true,false,false,false
